@@ -1,0 +1,2 @@
+#top-level-buttons-computed > ytd-download-button-renderer {display: none;}
+#top-level-buttons-computed > ytd-button-renderer:nth-child(5) {display:none;}
